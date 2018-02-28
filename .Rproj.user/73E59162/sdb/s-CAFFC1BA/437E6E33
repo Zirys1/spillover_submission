@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Loading data\nbase <- here::here()\nsetwd(paste0(base, \"/raw/\"))\nlibrary(xlsx)\n# One file for each session\ndf <- read.xlsx(file = \"raw.xlsx\", sheetIndex = 1, startRow = 1, header = TRUE, endRow = 197)\n\nsave.image(\"raw.RData\")\n\n",
+    "created" : 1519745493101.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1903343692",
+    "id" : "437E6E33",
+    "lastKnownWriteTime" : 1519746457,
+    "last_content_update" : 1519746457574,
+    "path" : "Z:/Projects/R Projects/spillover_submission/scripts/import.R",
+    "project_path" : "scripts/import.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

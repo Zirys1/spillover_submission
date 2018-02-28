@@ -1,0 +1,165 @@
+170823_1537	1	treatment_allocation	Subject	Type	
+170823_1537	1	treatment_allocation	1	1	
+170823_1537	1	treatment_allocation	2	2	
+170823_1537	1	treatment_allocation	3	3	
+170823_1537	1	treatment_allocation	4	1	
+170823_1537	1	treatment_allocation	5	2	
+170823_1537	1	treatment_allocation	6	3	
+170823_1537	1	treatment_allocation	7	1	
+170823_1537	1	treatment_allocation	8	2	
+170823_1537	1	treatment_allocation	9	3	
+170823_1537	1	treatment_allocation	10	1	
+170823_1537	1	treatment_allocation	11	2	
+170823_1537	1	treatment_allocation	12	3	
+170823_1537	1	treatment_allocation	13	1	
+170823_1537	1	treatment_allocation	14	2	
+170823_1537	1	treatment_allocation	15	3	
+170823_1537	1	treatment_allocation	16	1	
+170823_1537	1	treatment_allocation	17	2	
+170823_1537	1	treatment_allocation	18	3	
+170823_1537	1	treatment_allocation	19	1	
+170823_1537	1	treatment_allocation	20	2	
+170823_1537	1	treatment_allocation	21	3	
+170823_1537	1	treatment_allocation	22	1	
+170823_1537	1	treatment_allocation	23	2	
+170823_1537	1	treatment_allocation	24	3	
+170823_1537	1	treatment_allocation	25	1	
+170823_1537	1	treatment_allocation	26	2	
+170823_1537	1	treatment_allocation	27	3	
+170823_1537	1	treatment_allocation	28	1	
+170823_1537	1	treatment_allocation	29	2	
+170823_1537	1	treatment_allocation	30	3	
+170823_1537	1	globals	Period	NumPeriods	RepeatTreatment	Endowment	Default	EURperton	
+170823_1537	1	globals	1	1	0	10	8	5.53	
+170823_1537	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	treatment_type	type	TimeOKWelcomeOK	contribution	TimeOKControlOK	DefDecision	usedDefault	IndDecision	TimeOKNudge2OK	TimeOKNudgeInfo2OK	TimeOKNudgeInfopurpose2OK	TimeOKNudgepurpose2OK	Reduction	TimeOKPayoffOK	TimeIndDecisionNudge1OK	!button: 
+1 = "Anderer Beitrag"	TimeIndDecisionNudgeInfo1OK	
+170823_1537	1	subjects	1	1	1	10	10	1	1	1	57	0	18	0	0	0	0	0	0	0	0	56	0	0	0	
+170823_1537	1	subjects	1	2	1	10	10	1	2	2	52	0	0	0	0	1	59	0	-	-	0	59	59	17.129	0	
+170823_1537	1	subjects	1	3	1	7	7	1	3	3	52	3	0	0	0	1	0	26	-	-	542.49547920434	59	0	33.041	46	
+170823_1537	1	subjects	1	4	1	9	9	1	1	1	50	1	59	0	0	0	0	0	-	-	180.8318264014467	58	0	0	0	
+170823_1537	1	subjects	1	5	1	8	8	1	2	2	58	2	0	0	0	1	59	0	-	-	361.6636528028933	58	55	11.248	0	
+170823_1537	1	subjects	1	6	1	8	8	1	3	3	51	2	0	0	0	1	0	38	-	-	361.6636528028933	50	0	64.41200000000001	16	
+170823_1537	1	subjects	1	7	1	10	10	1	1	1	58	0	58	0	0	0	0	0	-	-	0	59	0	0	0	
+170823_1537	1	subjects	1	8	1	10	10	1	2	2	58	0	0	0	0	1	59	0	-	-	0	58	53	16.068	0	
+170823_1537	1	summary	Period	
+170823_1537	1	summary	1	
+170823_1537	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	
+170823_1537	1	session	1	10	0	0	0	10	10	
+170823_1537	1	session	2	10	0	0	0	10	10	
+170823_1537	1	session	3	7	0	0	0	7	7	
+170823_1537	1	session	4	9	0	0	0	9	9	
+170823_1537	1	session	5	8	0	0	0	8	8	
+170823_1537	1	session	6	8	0	0	0	8	8	
+170823_1537	1	session	7	10	0	0	0	10	10	
+170823_1537	1	session	8	10	0	0	0	10	10	
+170823_1537	3	treatment_allocation	Subject	Type	
+170823_1537	3	treatment_allocation	1	1	
+170823_1537	3	treatment_allocation	2	2	
+170823_1537	3	treatment_allocation	3	3	
+170823_1537	3	treatment_allocation	4	1	
+170823_1537	3	treatment_allocation	5	2	
+170823_1537	3	treatment_allocation	6	3	
+170823_1537	3	treatment_allocation	7	1	
+170823_1537	3	treatment_allocation	8	2	
+170823_1537	3	treatment_allocation	9	3	
+170823_1537	3	treatment_allocation	10	1	
+170823_1537	3	treatment_allocation	11	2	
+170823_1537	3	treatment_allocation	12	3	
+170823_1537	3	treatment_allocation	13	1	
+170823_1537	3	treatment_allocation	14	2	
+170823_1537	3	treatment_allocation	15	3	
+170823_1537	3	treatment_allocation	16	1	
+170823_1537	3	treatment_allocation	17	2	
+170823_1537	3	treatment_allocation	18	3	
+170823_1537	3	treatment_allocation	19	1	
+170823_1537	3	treatment_allocation	20	2	
+170823_1537	3	treatment_allocation	21	3	
+170823_1537	3	treatment_allocation	22	1	
+170823_1537	3	treatment_allocation	23	2	
+170823_1537	3	treatment_allocation	24	3	
+170823_1537	3	treatment_allocation	25	1	
+170823_1537	3	treatment_allocation	26	2	
+170823_1537	3	treatment_allocation	27	3	
+170823_1537	3	treatment_allocation	28	1	
+170823_1537	3	treatment_allocation	29	2	
+170823_1537	3	treatment_allocation	30	3	
+170823_1537	3	globals	Period	NumPeriods	RepeatTreatment	Endowment	Default	EURperton	
+170823_1537	3	globals	1	1	0	10	8	5.53	
+170823_1537	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	treatment_type	type	Gender	Age	TimeWeiterQuestionnaireAgeOK	StudyArea	TimeWeiterQuestionnaireSubjectOfStudyOK	PastParticipation	Others	TimeWeiterQuestionnaireOthersOK	Influence	InfluenceOthers	Effective	Ethical	Importance	TimeWeiterQuestionnaireMotivationOK	EU_ETS_Usefulness	Threat	Decide	Manipulate	Pressure	TimeWeiterQuestionnaire1StateReactanceDillardAndShen2005OK	Irritated	angry	annoyed	aggravated	TimeWeiterQuestionnaire2StateReactanceDillardAndShen2005OK	Donation1	Donation2	Donation3	Donation4	Donation5	Donation6	Donation7	TimeWeiterQuestionnaire4StateReactanceDillardAndShen2005OK	Regulation	Contradict	Prohibit	Dependent	Advice	Frustrated	IrritatedObvious	Restriction	TimeWeiterQuestionnaire18HongsReactanceScaleOK	Recommendation	Freewill	InfluenceMe	Rolemodel	Force	Standardrules	TimeWeiterQuestionnaire914HongsReactanceScaleOK	TimeGenderQuestionnaireGenderOK	!button: 
+1 = "Männlich";    0 = "Weiblich";	TimePastParticipationQuestionnairePastParticiapationOK	!button:
+0 = "Ja";
+1 = "Nein";	TimeInfluenceQuestionnaireInfluenceOK	TimeEUETSUsefulnessQuestionnaireEUETSOK	!button:
+1 = "Ja";
+2 = "Nein";	TimeInfluenceOthersQuestionnaireInfluenceOthersOK	TimeEffectiveQuestionnaireEffectiveOK	TimeEthicalQuestionnaireEthicalOK	
+170823_1537	3	subjects	1	1	1	0	0	1	1	1	1	50	60	6	57	0	1	57	0	0	0	0	4	53	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	40	4	3	3	5	2	5	3	5	4	2	4	4	4	4	4	32	59	3.276	99999	18.533	0	56	48.36	0	0	0	
+170823_1537	3	subjects	1	2	1	0	0	1	2	2	1	23	58	1	48	0	0	56	1	1	1	1	3	55	2	2	1	5	5	40	3	1	2	1	49	2	2	2	2	2	1	2	-5	4	5	4	5	3	5	5	5	18	2	4	4	5	5	5	25	57	11.06	60	60.996	55	55	104.442	59	49	56	
+170823_1537	3	subjects	1	3	1	0	0	1	3	3	1	25	60	1	99999	0	3	57	1	2	1	1	4	56	2	1	5	3	1	31	1	1	1	1	47	2	2	2	2	2	2	2	45	2	2	1	5	2	5	3	5	-3	1	4	4	4	1	2	10	59	2.762	60	30.202	58	54	71.792	57	52	58	
+170823_1537	3	subjects	1	4	1	0	0	1	1	1	0	21	60	4	57	0	1	60	0	0	0	0	4	58	1	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	49	3	2	2	4	1	4	5	4	28	2	3	4	4	3	2	30	59	4.087	99999	17.768	0	57	35.584	0	0	0	
+170823_1537	3	subjects	1	5	1	0	0	1	2	2	0	23	99999	7	58	0	2	60	1	1	1	2	4	58	1	2	3	4	2	36	1	1	1	1	50	2	2	2	2	2	2	2	46	2	2	1	3	1	2	4	4	25	2	3	3	4	1	3	20	58	5.788	60	25.756	59	56	60.263	60	57	52	
+170823_1537	3	subjects	1	6	1	0	0	1	3	3	0	28	60	7	57	0	2	56	1	2	1	1	4	56	2	1	2	1	1	43	1	1	1	1	50	2	2	2	2	2	2	2	51	3	4	3	3	1	4	2	4	3	2	4	3	2	3	4	14	59	3.042	99999	63.835	40	50	109.465	58	51	55	
+170823_1537	3	subjects	1	7	1	0	0	1	1	1	0	20	60	4	60	0	1	60	0	0	0	0	4	60	2	0	0	0	0	0	0	0	0	0	0	2	1	2	2	2	2	2	51	2	3	1	3	2	4	5	4	37	1	4	4	3	2	3	33	59	3.572	59	13.822	0	58	28.486	0	0	0	
+170823_1537	3	subjects	1	8	1	0	0	1	2	2	1	27	60	7	57	0	0	58	0	1	1	2	4	57	2	2	4	5	5	35	2	2	2	3	45	2	2	2	2	2	2	2	52	3	2	3	4	2	4	4	5	12	1	2	4	4	2	2	15	59	2.511	99999	36.317	56	57	73.77200000000001	56	57	53	
+170823_1537	3	summary	Period	
+170823_1537	3	summary	1	
+170823_1537	3	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	Participate	
+170823_1537	3	session	1	10	0	0	0	10	10	1	
+170823_1537	3	session	2	10	0	0	0	10	10	1	
+170823_1537	3	session	3	7	0	0	0	7	7	1	
+170823_1537	3	session	4	9	0	0	0	9	9	1	
+170823_1537	3	session	5	8	0	0	0	8	8	1	
+170823_1537	3	session	6	8	0	0	0	8	8	1	
+170823_1537	3	session	7	10	0	0	0	10	10	1	
+170823_1537	3	session	8	10	0	0	0	10	10	1	
+170823_1537	4	treatment_allocation	Subject	Type	
+170823_1537	4	treatment_allocation	1	1	
+170823_1537	4	treatment_allocation	2	2	
+170823_1537	4	treatment_allocation	3	3	
+170823_1537	4	treatment_allocation	4	1	
+170823_1537	4	treatment_allocation	5	2	
+170823_1537	4	treatment_allocation	6	3	
+170823_1537	4	treatment_allocation	7	1	
+170823_1537	4	treatment_allocation	8	2	
+170823_1537	4	treatment_allocation	9	3	
+170823_1537	4	treatment_allocation	10	1	
+170823_1537	4	treatment_allocation	11	2	
+170823_1537	4	treatment_allocation	12	3	
+170823_1537	4	treatment_allocation	13	1	
+170823_1537	4	treatment_allocation	14	2	
+170823_1537	4	treatment_allocation	15	3	
+170823_1537	4	treatment_allocation	16	1	
+170823_1537	4	treatment_allocation	17	2	
+170823_1537	4	treatment_allocation	18	3	
+170823_1537	4	treatment_allocation	19	1	
+170823_1537	4	treatment_allocation	20	2	
+170823_1537	4	treatment_allocation	21	3	
+170823_1537	4	treatment_allocation	22	1	
+170823_1537	4	treatment_allocation	23	2	
+170823_1537	4	treatment_allocation	24	3	
+170823_1537	4	treatment_allocation	25	1	
+170823_1537	4	treatment_allocation	26	2	
+170823_1537	4	treatment_allocation	27	3	
+170823_1537	4	treatment_allocation	28	1	
+170823_1537	4	treatment_allocation	29	2	
+170823_1537	4	treatment_allocation	30	3	
+170823_1537	4	globals	Period	NumPeriods	RepeatTreatment	
+170823_1537	4	globals	1	1	0	
+170823_1537	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	quote	quote_perception	source_identity	ZO_order	TimeOKWelcomeOK	TimeOKInstructionOK	Ok	TimeIchHabeDenTextGelesenUndVerstandenQuotenoIdOK	TimeWeiterQuotenoIdOK	TimeIchHabeDenTextGelesenUndVerstandenQuoteIdOK	TimeWeiterQuoteIdOK	quote_perc	TimeOKQuoteperceptionOK	TimeOKZOauthorOK	TimeIchHabeDenTextAufmerksamGelesenZOOK	TimeWeiterZOOK	so_dep	so_hon	so_rel	so_sin	so_tru	so_exp	so_expd	so_kno	so_qua	so_ski	co_acc	co_bel	co_fac	co_tru	TimeOKZOtrustOK	TimeOKZOsourceauthorOK	TimeIchHabeDenTextAufmerksamGelesenZOsourceOK	TimeWeiterZOsourceOK	so_dep1	so_hon1	so_rel1	so_sin1	so_tru1	so_exp1	so_expd1	so_kno1	so_qua1	so_ski1	co_acc1	co_bel1	co_fac1	co_tru1	TimeOKZOsourcetrustOK	TimeOKZOsource2authorOK	TimeIchHabeDenTextAufmerksamGelesenZOsource2OK	TimeWeiterZOsource2OK	so_dep2	so_hon2	so_rel2	so_sin2	so_tru2	so_exp2	so_expd2	so_kno2	so_qua2	so_ski2	co_acc2	co_bel2	co_fac2	co_tru2	TimeOKZOsource2trustOK	TimeOKZO2authorOK	TimeIchHabeDenTextAufmerksamGelesenZO2OK	TimeWeiterZO2OK	so_dep3	so_hon3	so_rel3	so_sin3	so_tru3	so_exp3	so_expd3	so_kno3	so_qua3	so_ski3	co_acc3	co_bel3	co_fac3	co_tru3	TimeOKZO2trustOK	TimeOKBriefingOK	
+170823_1537	4	subjects	1	1	1	0	0	0	1	1	0	0	59	28	1	96	93	0	0	4	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	293	163	161	3	3	3	3	3	4	4	4	4	4	4	4	4	4	237	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	299	215	213	3	3	3	3	3	3	3	3	3	3	4	4	4	4	255	0	
+170823_1537	4	subjects	1	2	1	0	0	1	0	1	0	1	59	29	0	0	0	-	-	0	0	298	149	148	3	3	4	3	4	4	3	4	4	4	4	3	4	4	257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	299	167	165	5	3	4	4	4	4	4	4	4	3	5	4	4	4	273	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170823_1537	4	subjects	1	3	1	0	0	1	0	1	0	0	51	38	1	0	0	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	289	136	134	5	5	5	5	5	5	5	5	5	5	5	5	5	5	275	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	190	188	4	4	4	4	4	2	5	4	4	4	2	3	5	5	260	0	
+170823_1537	4	subjects	1	4	1	0	0	1	0	1	0	1	59	36	0	0	0	-	-	0	0	298	211	208	3	3	2	3	3	2	2	3	4	3	4	3	4	3	258	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	191	191	5	5	5	4	4	5	5	5	5	4	5	5	5	5	266	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170823_1537	4	subjects	1	5	1	0	0	1	0	1	0	1	59	47	0	0	0	-	-	0	0	299	209	203	4	5	5	5	4	3	4	4	4	4	5	4	5	5	251	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	201	200	5	5	5	5	5	5	5	5	5	5	5	5	5	5	290	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170823_1537	4	subjects	1	6	1	0	0	1	0	1	0	0	53	36	1	0	0	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	289	176	174	4	5	5	4	4	5	5	5	5	5	3	5	4	4	247	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	299	223	222	3	4	4	4	4	3	4	4	4	4	4	4	4	4	273	0	
+170823_1537	4	subjects	1	7	1	0	0	0	1	1	0	0	59	45	1	99	97	-	-	2	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	295	246	245	5	5	5	4	5	5	5	5	5	5	5	5	5	5	279	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	298	250	248	5	5	5	4	4	4	5	5	4	5	4	5	5	5	279	24	
+170823_1537	4	subjects	1	8	1	0	0	0	1	1	0	1	59	28	0	75	73	-	-	3	56	298	227	226	3	3	3	3	3	3	3	3	3	4	1	2	1	1	263	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	300	225	224	4	3	4	3	3	4	4	4	3	4	4	3	4	3	269	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	
+170823_1537	4	summary	Period	
+170823_1537	4	summary	1	
+170823_1537	4	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	Participate	
+170823_1537	4	session	1	10	0	0	0	10	10	1	
+170823_1537	4	session	2	10	0	0	0	10	10	1	
+170823_1537	4	session	3	7	0	0	0	7	7	1	
+170823_1537	4	session	4	9	0	0	0	9	9	1	
+170823_1537	4	session	5	8	0	0	0	8	8	1	
+170823_1537	4	session	6	8	0	0	0	8	8	1	
+170823_1537	4	session	7	10	0	0	0	10	10	1	
+170823_1537	4	session	8	10	0	0	0	10	10	1	

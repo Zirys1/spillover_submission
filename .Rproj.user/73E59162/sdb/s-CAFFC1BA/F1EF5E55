@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(ggplot2)\ncommon_ops <-  list(theme(plot.title = element_text(size=8),\n                          axis.text = element_text(size = 8),\n                          axis.title = element_text(size = 8),\n                          strip.text = element_text(size = 8),\n                          legend.position=\"bottom\",\n                          legend.key = element_rect(size = 5),\n                          legend.key.size = unit(1.5, 'lines'),\n                          #   panel.grid.major=element_blank(),\n                          #   panel.grid.minor=element_blank(),\n                          panel.border=element_blank(),\n                          axis.line=element_line(),\n                          text=element_text()))\nprior_dist <- ggplot() +\n  geom_line(aes(x = seq(-10, 10, .01), y = dunif(seq(-10, 10,.01),-10,10), colour = \"Uniform(-10,10)\", linetype = \"Uniform(-10,10)\"), show.legend = T) +\n  geom_line(aes(x = seq(-10, 10, .01), y = dcauchy(seq(-10, 10,.01),0,(1/sqrt(2))), colour = \"Cauchy(0,1/sqrt(2))\", linetype = \"Cauchy(0,1/sqrt(2))\"), show.legend = T) +\n  geom_line(aes(x = seq(-10, 10, .01), y = dnorm(seq(-10, 10,.01),0,1), colour = \"Gauss(0,1)\", linetype = \"Gauss(0,1)\"), show.legend = T) +\n#  geom_line(aes(x = seq(-10, 10, .01), y = dcauchy(seq(-10, 10,.01),0,2), colour = \"Cauchy(0,2)\", linetype = \"Cauchy(0,2)\"), show.legend = T) +\n  scale_colour_manual(\"\",\n                      breaks = c(\"Uniform(-10,10)\",\"Cauchy(0,1/sqrt(2))\", \"Gauss(0,1)\"),\n                      values = c(\"black\", \"grey\", \"black\")) +\n  scale_linetype_manual(\"\",\n                      breaks = c(\"Uniform(-10,10)\", \"Cauchy(0,1/sqrt(2))\", \"Gauss(0,1)\"),\n                      values = c(1, 2, 3)) +\n  ylab(\"Density\") +\n  xlab(\"Coefficient\") +\n  guides(color = guide_legend(nrow = 2)) +\n  theme_bw() +\n  common_ops \n  \nprior_dist\n\n\n",
+    "created" : 1519745515049.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3144154129",
+    "id" : "F1EF5E55",
+    "lastKnownWriteTime" : 1519746088,
+    "last_content_update" : 1519746088642,
+    "path" : "Z:/Projects/R Projects/spillover_submission/scripts/prior_distributions.R",
+    "project_path" : "scripts/prior_distributions.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

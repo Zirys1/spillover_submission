@@ -1,0 +1,249 @@
+170823_1325	1	treatment_allocation	Subject	Type	
+170823_1325	1	treatment_allocation	1	1	
+170823_1325	1	treatment_allocation	2	2	
+170823_1325	1	treatment_allocation	3	3	
+170823_1325	1	treatment_allocation	4	1	
+170823_1325	1	treatment_allocation	5	2	
+170823_1325	1	treatment_allocation	6	3	
+170823_1325	1	treatment_allocation	7	1	
+170823_1325	1	treatment_allocation	8	2	
+170823_1325	1	treatment_allocation	9	3	
+170823_1325	1	treatment_allocation	10	1	
+170823_1325	1	treatment_allocation	11	2	
+170823_1325	1	treatment_allocation	12	3	
+170823_1325	1	treatment_allocation	13	1	
+170823_1325	1	treatment_allocation	14	2	
+170823_1325	1	treatment_allocation	15	3	
+170823_1325	1	treatment_allocation	16	1	
+170823_1325	1	treatment_allocation	17	2	
+170823_1325	1	treatment_allocation	18	3	
+170823_1325	1	treatment_allocation	19	1	
+170823_1325	1	treatment_allocation	20	2	
+170823_1325	1	treatment_allocation	21	3	
+170823_1325	1	treatment_allocation	22	1	
+170823_1325	1	treatment_allocation	23	2	
+170823_1325	1	treatment_allocation	24	3	
+170823_1325	1	treatment_allocation	25	1	
+170823_1325	1	treatment_allocation	26	2	
+170823_1325	1	treatment_allocation	27	3	
+170823_1325	1	treatment_allocation	28	1	
+170823_1325	1	treatment_allocation	29	2	
+170823_1325	1	treatment_allocation	30	3	
+170823_1325	1	globals	Period	NumPeriods	RepeatTreatment	Endowment	Default	EURperton	
+170823_1325	1	globals	1	1	0	10	8	5.53	
+170823_1325	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	treatment_type	type	TimeOKWelcomeOK	contribution	TimeOKControlOK	DefDecision	usedDefault	IndDecision	TimeOKNudge2OK	TimeOKNudgeInfo2OK	TimeOKNudgeInfopurpose2OK	TimeOKNudgepurpose2OK	Reduction	TimeOKPayoffOK	TimeIndDecisionNudge1OK	!button: 
+1 = "Anderer Beitrag"	TimeIndDecisionNudgeInfo1OK	
+170823_1325	1	subjects	1	1	1	10	10	1	1	1	57	0	59	0	0	0	0	0	0	0	0	60	0	0	0	
+170823_1325	1	subjects	1	2	1	0	0	1	2	2	58	10	0	0	0	1	59	0	-	-	1808.318264014466	59	57	20.826	0	
+170823_1325	1	subjects	1	3	1	9	9	1	3	3	58	1	0	0	0	1	0	56	-	-	180.8318264014467	59	0	12.355	59	
+170823_1325	1	subjects	1	4	1	8	8	1	1	1	58	2	53	0	0	0	0	0	-	-	361.6636528028933	56	0	0	0	
+170823_1325	1	subjects	1	5	1	8	8	1	2	2	58	2	0	0	0	1	59	0	-	-	361.6636528028933	59	59	13.494	0	
+170823_1325	1	subjects	1	6	1	9	9	1	3	3	57	1	0	0	0	1	0	46	-	-	180.8318264014467	58	0	20.639	58	
+170823_1325	1	subjects	1	7	1	10	10	1	1	1	57	0	59	0	0	0	0	0	-	-	0	99999	0	0	0	
+170823_1325	1	subjects	1	8	1	9	9	1	2	2	57	1	0	0	0	1	58	0	-	-	180.8318264014467	59	60	14.493	0	
+170823_1325	1	subjects	1	9	1	10	10	1	3	3	55	0	0	0	0	1	0	54	-	-	0	56	0	40.186	47	
+170823_1325	1	subjects	1	10	1	10	10	1	1	1	58	0	59	0	0	0	0	0	-	-	0	99999	0	0	0	
+170823_1325	1	subjects	1	11	1	10	10	1	2	2	58	0	0	0	0	1	57	0	-	-	0	58	58	17.238	0	
+170823_1325	1	subjects	1	12	1	9	9	1	3	3	57	1	0	0	0	1	0	57	-	-	180.8318264014467	57	0	16.832	59	
+170823_1325	1	subjects	1	13	1	9	9	1	1	1	58	1	59	0	0	0	0	0	-	-	180.8318264014467	99999	0	0	0	
+170823_1325	1	subjects	1	14	1	6	6	1	2	2	57	4	0	0	0	1	-23	0	-	-	723.3273056057866	57	59	18.72	0	
+170823_1325	1	subjects	1	15	1	10	10	1	3	3	57	0	0	0	0	1	0	57	-	-	0	58	0	18.096	59	
+170823_1325	1	subjects	1	16	1	5	5	1	1	1	57	5	19	0	0	0	0	0	-	-	904.1591320072332	41	0	0	0	
+170823_1325	1	subjects	1	17	1	10	10	1	2	2	58	0	0	0	0	1	60	0	-	-	0	59	59	11.809	0	
+170823_1325	1	subjects	1	18	1	8	8	1	3	3	55	2	0	0	0	1	0	55	-	-	361.6636528028933	58	0	33.198	53	
+170823_1325	1	subjects	1	19	1	10	10	1	1	1	58	0	58	0	0	0	0	0	-	-	0	60	0	0	0	
+170823_1325	1	subjects	1	20	1	5	5	1	2	2	58	5	0	0	0	1	57	0	-	-	904.1591320072332	60	59	12.464	0	
+170823_1325	1	subjects	1	21	1	7	7	1	3	3	58	3	0	0	0	1	0	48	-	-	542.49547920434	58	0	28.642	54	
+170823_1325	1	subjects	1	22	1	9	9	1	1	1	57	1	44	0	0	0	0	0	-	-	180.8318264014467	59	0	0	0	
+170823_1325	1	summary	Period	
+170823_1325	1	summary	1	
+170823_1325	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	
+170823_1325	1	session	1	10	0	0	0	10	10	
+170823_1325	1	session	2	0	0	0	0	0	0	
+170823_1325	1	session	3	9	0	0	0	9	9	
+170823_1325	1	session	4	8	0	0	0	8	8	
+170823_1325	1	session	5	8	0	0	0	8	8	
+170823_1325	1	session	6	9	0	0	0	9	9	
+170823_1325	1	session	7	10	0	0	0	10	10	
+170823_1325	1	session	8	9	0	0	0	9	9	
+170823_1325	1	session	9	10	0	0	0	10	10	
+170823_1325	1	session	10	10	0	0	0	10	10	
+170823_1325	1	session	11	10	0	0	0	10	10	
+170823_1325	1	session	12	9	0	0	0	9	9	
+170823_1325	1	session	13	9	0	0	0	9	9	
+170823_1325	1	session	14	6	0	0	0	6	6	
+170823_1325	1	session	15	10	0	0	0	10	10	
+170823_1325	1	session	16	5	0	0	0	5	5	
+170823_1325	1	session	17	10	0	0	0	10	10	
+170823_1325	1	session	18	8	0	0	0	8	8	
+170823_1325	1	session	19	10	0	0	0	10	10	
+170823_1325	1	session	20	5	0	0	0	5	5	
+170823_1325	1	session	21	7	0	0	0	7	7	
+170823_1325	1	session	22	9	0	0	0	9	9	
+170823_1325	3	treatment_allocation	Subject	Type	
+170823_1325	3	treatment_allocation	1	1	
+170823_1325	3	treatment_allocation	2	2	
+170823_1325	3	treatment_allocation	3	3	
+170823_1325	3	treatment_allocation	4	1	
+170823_1325	3	treatment_allocation	5	2	
+170823_1325	3	treatment_allocation	6	3	
+170823_1325	3	treatment_allocation	7	1	
+170823_1325	3	treatment_allocation	8	2	
+170823_1325	3	treatment_allocation	9	3	
+170823_1325	3	treatment_allocation	10	1	
+170823_1325	3	treatment_allocation	11	2	
+170823_1325	3	treatment_allocation	12	3	
+170823_1325	3	treatment_allocation	13	1	
+170823_1325	3	treatment_allocation	14	2	
+170823_1325	3	treatment_allocation	15	3	
+170823_1325	3	treatment_allocation	16	1	
+170823_1325	3	treatment_allocation	17	2	
+170823_1325	3	treatment_allocation	18	3	
+170823_1325	3	treatment_allocation	19	1	
+170823_1325	3	treatment_allocation	20	2	
+170823_1325	3	treatment_allocation	21	3	
+170823_1325	3	treatment_allocation	22	1	
+170823_1325	3	treatment_allocation	23	2	
+170823_1325	3	treatment_allocation	24	3	
+170823_1325	3	treatment_allocation	25	1	
+170823_1325	3	treatment_allocation	26	2	
+170823_1325	3	treatment_allocation	27	3	
+170823_1325	3	treatment_allocation	28	1	
+170823_1325	3	treatment_allocation	29	2	
+170823_1325	3	treatment_allocation	30	3	
+170823_1325	3	globals	Period	NumPeriods	RepeatTreatment	Endowment	Default	EURperton	
+170823_1325	3	globals	1	1	0	10	8	5.53	
+170823_1325	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	treatment_type	type	Gender	Age	TimeWeiterQuestionnaireAgeOK	StudyArea	TimeWeiterQuestionnaireSubjectOfStudyOK	PastParticipation	Others	TimeWeiterQuestionnaireOthersOK	Influence	InfluenceOthers	Effective	Ethical	Importance	TimeWeiterQuestionnaireMotivationOK	EU_ETS_Usefulness	Threat	Decide	Manipulate	Pressure	TimeWeiterQuestionnaire1StateReactanceDillardAndShen2005OK	Irritated	angry	annoyed	aggravated	TimeWeiterQuestionnaire2StateReactanceDillardAndShen2005OK	Donation1	Donation2	Donation3	Donation4	Donation5	Donation6	Donation7	TimeWeiterQuestionnaire4StateReactanceDillardAndShen2005OK	Regulation	Contradict	Prohibit	Dependent	Advice	Frustrated	IrritatedObvious	Restriction	TimeWeiterQuestionnaire18HongsReactanceScaleOK	Recommendation	Freewill	InfluenceMe	Rolemodel	Force	Standardrules	TimeWeiterQuestionnaire914HongsReactanceScaleOK	TimeGenderQuestionnaireGenderOK	!button: 
+1 = "Männlich";    0 = "Weiblich";	TimePastParticipationQuestionnairePastParticiapationOK	!button:
+0 = "Ja";
+1 = "Nein";	TimeInfluenceQuestionnaireInfluenceOK	TimeInfluenceOthersQuestionnaireInfluenceOthersOK	!button:
+1 = "Ja";
+2 = "Nein";	TimeEffectiveQuestionnaireEffectiveOK	TimeEUETSUsefulnessQuestionnaireEUETSOK	TimeEthicalQuestionnaireEthicalOK	
+170823_1325	3	subjects	1	1	1	0	0	1	1	1	1	42	99999	6	60	0	2	59	0	0	0	0	4	99999	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	58	2	2	2	4	3	5	3	4	30	2	4	3	4	2	2	36	60	3.432	99999	19.625	0	0	41.527	0	99999	0	
+170823_1325	3	subjects	1	2	1	0	0	1	2	2	0	25	99999	7	60	0	5	99999	1	1	1	1	4	99999	1	1	4	4	4	50	2	2	2	2	52	2	2	2	2	2	2	2	55	3	2	2	4	2	5	4	5	27	2	4	2	3	3	4	29	60	1.732	99999	26.271	59	99999	55.209	99999	60	99999	
+170823_1325	3	subjects	1	3	1	0	0	1	3	3	0	22	60	7	99999	0	2	59	0	1	1	1	5	60	1	2	2	2	2	39	2	2	2	2	58	2	2	2	2	2	2	2	50	5	4	4	4	2	4	4	4	29	1	3	2	4	3	2	23	60	8.143000000000001	99999	33.977	99999	99999	69.904	99999	55	99999	
+170823_1325	3	subjects	1	4	1	0	0	1	1	1	0	24	99999	7	60	0	3	60	0	0	0	0	4	60	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	49	4	4	1	5	2	4	2	4	34	2	4	4	4	4	2	34	60	2.684	99999	17.254	0	0	65.614	0	56	0	
+170823_1325	3	subjects	1	5	1	0	0	1	2	2	0	29	99999	7	60	1	2	59	1	2	1	1	5	57	2	1	4	4	2	42	2	1	1	1	57	2	2	2	2	2	2	2	52	4	4	2	5	3	4	3	5	26	2	3	4	3	3	2	33	60	3.105	99999	38.112	99999	99999	73.41500000000001	99999	58	60	
+170823_1325	3	subjects	1	6	1	0	0	1	3	3	0	25	99999	4	60	0	1	60	1	1	1	2	4	60	2	2	2	5	5	46	3	2	4	2	50	2	2	2	2	2	2	2	56	2	3	4	4	2	4	5	4	15	2	2	3	5	4	4	21	60	4.945	99999	30.373	60	99999	61.823	99999	59	99999	
+170823_1325	3	subjects	1	7	1	0	0	1	1	1	0	24	60	2	59	0	1	99999	0	0	0	0	5	99999	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	56	1	5	1	5	4	4	5	4	36	2	2	4	4	1	1	33	60	4.213	99999	29.407	0	0	47.097	0	99999	0	
+170823_1325	3	subjects	1	8	1	0	0	1	2	2	0	21	99999	4	60	0	5	99999	1	1	1	1	4	57	1	4	4	4	1	40	1	1	1	1	49	2	2	2	2	2	2	2	49	5	5	5	4	4	4	1	3	-2	4	5	4	3	3	4	0	60	2.667	99999	27.471	59	99999	94.146	99999	45	60	
+170823_1325	3	subjects	1	9	1	0	0	1	3	3	1	23	99999	3	60	0	1	99999	0	1	2	1	4	51	2	1	4	4	4	48	2	2	2	2	51	2	2	2	2	2	2	2	50	2	4	1	4	3	5	3	4	16	2	4	4	5	3	4	26	59	15.787	60	46.613	99999	99999	95.39400000000001	60	57	55	
+170823_1325	3	subjects	1	10	1	0	0	1	1	1	0	26	99999	7	59	0	2	99999	0	0	0	0	4	99999	1	0	0	0	0	0	0	0	0	0	0	2	2	1	2	2	2	2	41	4	2	4	4	3	5	4	4	33	3	4	2	4	4	5	26	60	4.508	60	26.489	0	0	56.036	0	60	0	
+170823_1325	3	subjects	1	11	1	0	0	1	2	2	0	23	99999	1	99999	0	2	60	1	2	1	1	4	59	2	3	5	2	3	41	2	1	1	2	53	2	2	2	2	2	2	2	45	2	4	2	5	3	4	4	4	16	2	5	3	4	4	4	6	59	12.48	60	34.82	99999	99999	70.26300000000001	99999	57	60	
+170823_1325	3	subjects	1	12	1	0	0	1	3	3	1	24	99999	6	60	0	2	60	0	1	1	1	4	99999	1	2	4	4	4	50	4	2	1	2	56	2	2	2	2	2	2	2	56	3	2	2	4	2	4	4	4	39	2	2	3	2	2	1	38	60	5.117	60	39.297	99999	99999	82.54000000000001	99999	47	99999	
+170823_1325	3	subjects	1	13	1	0	0	1	1	1	0	34	99999	1	60	0	2	59	0	0	0	0	4	99999	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	58	2	2	1	4	2	4	4	4	37	2	4	3	2	2	2	41	60	3.229	99999	19.484	0	0	43.758	0	99999	0	
+170823_1325	3	subjects	1	14	1	0	0	1	2	2	0	29	99999	1	60	0	2	59	0	1	1	2	5	60	1	4	4	5	4	48	4	1	2	3	48	2	2	2	2	2	2	2	50	4	4	2	4	4	4	5	4	21	4	4	4	4	4	3	17	60	2.403	99999	32.651	99999	99999	72.51000000000001	99999	54	99999	
+170823_1325	3	subjects	1	15	1	0	0	1	3	3	0	26	99999	6	60	1	4	60	1	1	1	2	4	60	2	1	3	2	3	45	2	1	1	1	51	2	2	2	2	2	2	2	45	2	2	1	3	2	4	2	4	20	2	4	3	3	3	2	16	60	3.682	99999	32.511	60	99999	64.413	99999	57	99999	
+170823_1325	3	subjects	1	16	1	0	0	1	1	1	1	27	60	4	60	0	5	56	0	0	0	0	5	56	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	41	4	3	3	5	2	4	2	5	-2	3	4	4	4	4	4	8	60	5.959	60	30.436	0	0	104.302	0	44	0	
+170823_1325	3	subjects	1	17	1	0	0	1	2	2	0	36	99999	6	60	0	2	59	1	2	1	1	4	59	2	1	1	1	1	45	1	1	1	1	57	2	2	2	2	2	2	2	56	3	3	3	4	3	4	4	4	37	3	4	4	3	3	3	41	60	2.964	99999	32.526	99999	99999	66.955	99999	59	60	
+170823_1325	3	subjects	1	18	1	0	0	1	3	3	1	23	99999	1	60	1	0	59	0	1	2	1	4	59	2	4	5	4	4	45	4	2	3	4	53	2	2	2	2	2	2	2	55	4	2	4	5	2	4	4	4	25	4	3	4	4	4	4	28	60	5.132	99999	32.947	99999	99999	65.364	99999	58	99999	
+170823_1325	3	subjects	1	19	1	0	0	1	1	1	0	22	99999	7	60	0	3	59	0	0	0	0	4	99999	2	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	53	3	3	4	5	2	4	3	5	26	1	2	3	4	3	3	24	60	2.2	99999	17.613	0	0	51.044	0	99999	0	
+170823_1325	3	subjects	1	20	1	0	0	1	2	2	0	22	99999	7	60	0	5	60	1	2	1	2	5	57	2	2	5	5	3	43	4	2	2	1	54	2	2	2	2	2	2	2	52	4	2	2	4	2	4	5	5	29	2	3	4	3	4	2	12	60	2.605	60	45.38	99999	99999	75.44199999999999	60	59	59	
+170823_1325	3	subjects	1	21	1	0	0	1	3	3	0	20	99999	7	60	0	6	59	1	1	1	2	4	58	2	1	4	4	4	47	2	1	2	3	50	2	2	2	2	2	2	2	49	4	4	4	4	2	4	3	4	25	2	3	3	2	5	3	18	60	4.072	99999	43.525	99999	99999	85.801	59	52	58	
+170823_1325	3	subjects	1	22	1	0	0	1	1	1	1	27	99999	1	60	0	2	59	0	0	0	0	4	99999	1	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	60	4	2	1	3	3	4	4	5	32	3	4	4	3	3	2	39	60	3.697	99999	18.954	0	0	43.602	0	99999	0	
+170823_1325	3	summary	Period	
+170823_1325	3	summary	1	
+170823_1325	3	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	Participate	
+170823_1325	3	session	1	10	0	0	0	10	10	1	
+170823_1325	3	session	2	0	0	0	0	0	0	1	
+170823_1325	3	session	3	9	0	0	0	9	9	1	
+170823_1325	3	session	4	8	0	0	0	8	8	1	
+170823_1325	3	session	5	8	0	0	0	8	8	1	
+170823_1325	3	session	6	9	0	0	0	9	9	1	
+170823_1325	3	session	7	10	0	0	0	10	10	1	
+170823_1325	3	session	8	9	0	0	0	9	9	1	
+170823_1325	3	session	9	10	0	0	0	10	10	1	
+170823_1325	3	session	10	10	0	0	0	10	10	1	
+170823_1325	3	session	11	10	0	0	0	10	10	1	
+170823_1325	3	session	12	9	0	0	0	9	9	1	
+170823_1325	3	session	13	9	0	0	0	9	9	1	
+170823_1325	3	session	14	6	0	0	0	6	6	1	
+170823_1325	3	session	15	10	0	0	0	10	10	1	
+170823_1325	3	session	16	5	0	0	0	5	5	1	
+170823_1325	3	session	17	10	0	0	0	10	10	1	
+170823_1325	3	session	18	8	0	0	0	8	8	1	
+170823_1325	3	session	19	10	0	0	0	10	10	1	
+170823_1325	3	session	20	5	0	0	0	5	5	1	
+170823_1325	3	session	21	7	0	0	0	7	7	1	
+170823_1325	3	session	22	9	0	0	0	9	9	1	
+170823_1325	4	treatment_allocation	Subject	Type	
+170823_1325	4	treatment_allocation	1	1	
+170823_1325	4	treatment_allocation	2	2	
+170823_1325	4	treatment_allocation	3	3	
+170823_1325	4	treatment_allocation	4	1	
+170823_1325	4	treatment_allocation	5	2	
+170823_1325	4	treatment_allocation	6	3	
+170823_1325	4	treatment_allocation	7	1	
+170823_1325	4	treatment_allocation	8	2	
+170823_1325	4	treatment_allocation	9	3	
+170823_1325	4	treatment_allocation	10	1	
+170823_1325	4	treatment_allocation	11	2	
+170823_1325	4	treatment_allocation	12	3	
+170823_1325	4	treatment_allocation	13	1	
+170823_1325	4	treatment_allocation	14	2	
+170823_1325	4	treatment_allocation	15	3	
+170823_1325	4	treatment_allocation	16	1	
+170823_1325	4	treatment_allocation	17	2	
+170823_1325	4	treatment_allocation	18	3	
+170823_1325	4	treatment_allocation	19	1	
+170823_1325	4	treatment_allocation	20	2	
+170823_1325	4	treatment_allocation	21	3	
+170823_1325	4	treatment_allocation	22	1	
+170823_1325	4	treatment_allocation	23	2	
+170823_1325	4	treatment_allocation	24	3	
+170823_1325	4	treatment_allocation	25	1	
+170823_1325	4	treatment_allocation	26	2	
+170823_1325	4	treatment_allocation	27	3	
+170823_1325	4	treatment_allocation	28	1	
+170823_1325	4	treatment_allocation	29	2	
+170823_1325	4	treatment_allocation	30	3	
+170823_1325	4	globals	Period	NumPeriods	RepeatTreatment	
+170823_1325	4	globals	1	1	0	
+170823_1325	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	quote	quote_perception	source_identity	ZO_order	TimeOKWelcomeOK	TimeOKInstructionOK	Ok	TimeIchHabeDenTextGelesenUndVerstandenQuotenoIdOK	TimeWeiterQuotenoIdOK	TimeIchHabeDenTextGelesenUndVerstandenQuoteIdOK	TimeWeiterQuoteIdOK	quote_perc	TimeOKQuoteperceptionOK	TimeOKZOauthorOK	TimeIchHabeDenTextAufmerksamGelesenZOOK	TimeWeiterZOOK	so_dep	so_hon	so_rel	so_sin	so_tru	so_exp	so_expd	so_kno	so_qua	so_ski	co_acc	co_bel	co_fac	co_tru	TimeOKZOtrustOK	TimeOKZOsourceauthorOK	TimeIchHabeDenTextAufmerksamGelesenZOsourceOK	TimeWeiterZOsourceOK	TimeOKZOsourcetrustOK	TimeOKZOsource2authorOK	TimeIchHabeDenTextAufmerksamGelesenZOsource2OK	TimeWeiterZOsource2OK	TimeOKZOsource2trustOK	TimeOKZO2authorOK	TimeIchHabeDenTextAufmerksamGelesenZO2OK	TimeWeiterZO2OK	TimeOKZO2trustOK	TimeOKBriefingOK	
+170823_1325	4	subjects	1	1	1	0	0	1	0	1	0	1	59	43	0	0	0	0	0	0	0	299	214	212	5	5	5	5	5	5	5	5	5	5	5	5	5	5	271	0	0	0	0	289	191	191	281	0	0	0	0	0	
+170823_1325	4	subjects	1	2	1	0	0	1	0	1	0	0	59	48	1	0	0	-	-	0	0	0	0	0	5	5	5	5	5	4	4	5	4	5	5	5	5	5	0	297	192	191	266	0	0	0	0	300	224	223	271	0	
+170823_1325	4	subjects	1	3	1	0	0	1	0	1	0	1	59	43	0	0	0	-	-	0	0	299	215	213	3	3	2	3	3	4	4	4	4	2	4	3	4	4	268	0	0	0	0	299	242	241	282	0	0	0	0	0	
+170823_1325	4	subjects	1	4	1	0	0	1	0	1	0	1	59	40	0	0	0	-	-	0	0	295	212	210	5	5	4	5	4	5	5	4	3	3	4	5	4	3	260	0	0	0	0	297	198	196	258	0	0	0	0	0	
+170823_1325	4	subjects	1	5	1	0	0	0	1	1	0	0	59	47	1	108	105	-	-	2	57	0	0	0	4	5	5	4	4	3	4	3	3	3	3	4	3	4	0	293	196	196	277	0	0	0	0	297	195	195	258	19	
+170823_1325	4	subjects	1	6	1	0	0	1	0	1	0	1	59	40	0	0	0	-	-	0	0	298	171	167	4	4	4	4	4	4	4	4	4	5	2	4	3	4	253	0	0	0	0	292	128	127	271	0	0	0	0	0	
+170823_1325	4	subjects	1	7	1	0	0	0	1	1	0	0	59	43	1	91	88	-	-	2	58	0	0	0	5	4	4	4	4	3	3	3	3	3	2	4	3	4	0	289	205	205	262	0	0	0	0	297	238	237	275	19	
+170823_1325	4	subjects	1	8	1	0	0	0	1	1	0	0	59	44	1	74	72	-	-	4	53	0	0	0	4	4	4	4	4	4	5	5	4	5	4	4	4	4	0	296	141	140	270	0	0	0	0	297	214	211	277	20	
+170823_1325	4	subjects	1	9	1	0	0	0	1	1	0	0	59	43	1	100	96	-	-	3	58	0	0	0	3	3	2	3	2	2	3	3	3	4	3	2	3	2	0	295	152	150	248	0	0	0	0	296	146	145	254	15	
+170823_1325	4	subjects	1	10	1	0	0	1	0	1	0	0	59	44	1	0	0	-	-	0	0	0	0	0	4	3	4	3	4	2	2	3	3	2	2	3	4	3	0	297	161	160	257	0	0	0	0	298	228	227	270	0	
+170823_1325	4	subjects	1	11	1	0	0	0	1	1	0	1	59	43	0	101	100	-	-	4	57	298	209	208	5	5	5	5	5	5	5	5	5	5	5	5	5	5	267	0	0	0	0	295	200	199	286	0	0	0	0	20	
+170823_1325	4	subjects	1	12	1	0	0	1	0	1	0	0	59	50	1	0	0	-	-	0	0	0	0	0	3	4	4	4	4	2	4	4	3	4	3	4	3	4	0	296	166	162	280	0	0	0	0	298	215	214	271	0	
+170823_1325	4	subjects	1	13	1	0	0	1	0	1	0	0	59	46	1	0	0	-	-	0	0	0	0	0	4	4	4	4	4	1	3	3	3	3	4	4	4	4	0	296	199	197	280	0	0	0	0	298	224	223	269	0	
+170823_1325	4	subjects	1	14	1	0	0	1	0	1	0	0	59	44	1	0	0	-	-	0	0	0	0	0	5	5	5	5	5	5	5	5	5	5	5	5	5	5	0	296	174	172	268	0	0	0	0	298	235	234	287	0	
+170823_1325	4	subjects	1	15	1	0	0	1	0	1	0	1	59	43	0	0	0	-	-	0	0	300	210	202	5	5	5	5	5	5	5	5	5	5	5	5	5	5	275	0	0	0	0	297	224	224	282	0	0	0	0	0	
+170823_1325	4	subjects	1	16	1	0	0	0	1	1	0	1	59	41	0	93	75	-	-	4	55	296	207	206	5	5	5	5	5	5	5	5	5	5	5	5	5	5	255	0	0	0	0	294	156	155	280	0	0	0	0	13	
+170823_1325	4	subjects	1	17	1	0	0	1	0	1	0	0	59	50	1	0	0	-	-	0	0	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	297	265	264	279	0	0	0	0	299	247	245	289	0	
+170823_1325	4	subjects	1	18	1	0	0	0	1	1	0	0	59	41	1	107	105	-	-	4	58	0	0	0	4	5	5	5	5	3	3	4	2	1	3	4	4	4	0	297	275	274	255	0	0	0	0	298	279	278	281	23	
+170823_1325	4	subjects	1	19	1	0	0	0	1	1	0	1	59	43	0	91	89	-	-	4	57	293	210	208	4	3	4	3	3	3	3	3	3	4	3	3	4	3	257	0	0	0	0	294	237	236	258	0	0	0	0	18	
+170823_1325	4	subjects	1	20	1	0	0	1	0	1	0	0	59	50	1	0	0	-	-	0	0	0	0	0	5	5	5	5	5	3	5	5	5	5	3	5	5	5	0	294	187	180	239	0	0	0	0	299	244	243	279	0	
+170823_1325	4	subjects	1	21	1	0	0	0	1	1	0	1	56	46	0	101	97	-	-	4	52	298	209	208	5	4	5	4	5	5	4	4	4	5	5	4	5	5	269	0	0	0	0	294	206	206	281	0	0	0	0	21	
+170823_1325	4	subjects	1	22	1	0	0	0	1	1	0	1	59	43	0	101	100	-	-	5	57	299	224	221	5	4	5	5	4	3	3	3	3	3	5	4	5	4	269	0	0	0	0	296	230	227	276	0	0	0	0	21	
+170823_1325	4	summary	Period	
+170823_1325	4	summary	1	
+170823_1325	4	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	Participate	
+170823_1325	4	session	1	10	0	0	0	10	10	1	
+170823_1325	4	session	2	0	0	0	0	0	0	1	
+170823_1325	4	session	3	9	0	0	0	9	9	1	
+170823_1325	4	session	4	8	0	0	0	8	8	1	
+170823_1325	4	session	5	8	0	0	0	8	8	1	
+170823_1325	4	session	6	9	0	0	0	9	9	1	
+170823_1325	4	session	7	10	0	0	0	10	10	1	
+170823_1325	4	session	8	9	0	0	0	9	9	1	
+170823_1325	4	session	9	10	0	0	0	10	10	1	
+170823_1325	4	session	10	10	0	0	0	10	10	1	
+170823_1325	4	session	11	10	0	0	0	10	10	1	
+170823_1325	4	session	12	9	0	0	0	9	9	1	
+170823_1325	4	session	13	9	0	0	0	9	9	1	
+170823_1325	4	session	14	6	0	0	0	6	6	1	
+170823_1325	4	session	15	10	0	0	0	10	10	1	
+170823_1325	4	session	16	5	0	0	0	5	5	1	
+170823_1325	4	session	17	10	0	0	0	10	10	1	
+170823_1325	4	session	18	8	0	0	0	8	8	1	
+170823_1325	4	session	19	10	0	0	0	10	10	1	
+170823_1325	4	session	20	5	0	0	0	5	5	1	
+170823_1325	4	session	21	7	0	0	0	7	7	1	
+170823_1325	4	session	22	9	0	0	0	9	9	1	
