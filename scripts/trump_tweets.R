@@ -7,11 +7,12 @@ library(stringr)
 library(forcats)
 library(scales)
 library(stringr)
+library(egg)
 library(ggrepel)
 library(tidytext)
 common_ops <-  list(theme(plot.title = element_text(size=8),
                           axis.text.y = element_text(size = 8, hjust = 1),
-                          axis.text.x = element_text(size = 8, hjust = 1),
+                          axis.text.x = element_text(size = 8, hjust = 0.5),
                           axis.title = element_text(size = 8),
                           strip.text = element_text(size = 8),
                           legend.position="bottom",
@@ -84,6 +85,7 @@ ct <- campaign_tweets %>%
   ggplot(aes(x =month, y = ratio)) +
   geom_line(size = 1) +
   geom_point(shape = 15, color = "darkgrey", size = 2) +
+  scale_x_datetime(labels = date_format("%b %Y"), date_breaks = "3 months") +
   scale_y_continuous(breaks = c(seq(0,10,2)), limits = c(0,11)) +
   theme_bw()+
   ylab("Percentage of tweets\nusing the term 'fake news'") +
@@ -127,13 +129,19 @@ ftd <- ggplot(std, aes(x =month, y = meansent, color = FakeNews)) +
    ylab("AFINN\nsentiment score") +
    xlab(NULL) +
    scale_color_grey() +
-  guides(fill = guide_legend(title.position="top")) +
+   scale_x_datetime(labels = date_format("%b %Y"), date_breaks = "3 months") +
+   guides(fill = guide_legend(title.position="top")) +
    common_ops +
-  theme(panel.grid.major.x = element_line(size=.1, colour = "grey"),
+   theme(panel.grid.major.x = element_line(size=.1, colour = "grey"),
         panel.grid.major.y = element_blank(),
         legend.title = element_blank(), 
         legend.position = c(0.83,0.16),
         legend.text =  element_text(size=6),
         legend.background = element_rect(fill = "transparent", color = NA, size=.5))
 
-multiplot(ct, ftd, cols = 1)
+# multiplot(ct, ftd, cols = 1)
+ggarrange(ct, ftd, ncol = 1)
+
+tikz(file = paste0(getwd(), "/Fig1alt.tex"), width = 4.5, height = 4.7)
+ggarrange(ct, ftd, ncol = 1)
+dev.off()
